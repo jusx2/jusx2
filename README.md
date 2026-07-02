@@ -1,16 +1,17 @@
-## Hi there 👋
+# Justin Wong
 
-<!--
-**jusx2/jusx2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ex-pharmacy, now moving into health-tech data science. I start a Master of Statistics at UNSW in September 2026.
 
-Here are some ideas to get you started:
+My focus is the behaviour and workflow side of digital health: retention, engagement, and how people actually use these products. Pharmacy gave me the clinical grounding. Statistics is where I'm building the analytical rigour to back it up.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working with now:**
+- Python: pandas, numpy, scikit-learn
+- Tree-based models like random forests and gradient boosting
+- Exploratory data analysis
+
+**Learning next:**
+- Statistical inference and causal inference through the master's
+- Experiment design and A/B testing
+- SQL for analytics: window functions and CTEs
+
+**Contact:** [LinkedIn](https://linkedin.com/in/jusx2)
